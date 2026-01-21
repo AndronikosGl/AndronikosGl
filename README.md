@@ -1,4 +1,4 @@
-- Hi, I’m @AndronikosGl, passionate about Java Swing & Desktop App Development. I daily drive Linux, Im also a FreeBSD beginner and I always love to explore and share code projects, working inside my favourite NetBeans IDE
+- Hi, I’m @AndronikosGl — passionate about Java Swing and desktop application development. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in my favorite IDE, Apache NetBeans
 - 🌐 [andronikos.dev](https://andronikos.dev/home)
   <br><br>
 ## Operating Systems
