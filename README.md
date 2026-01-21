@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AndronikosGl
-- ☕️ Passionate about Java Swing & Desktop App Development
-- 💾 Daily Linux user and FreeBSD beginner
-- 😄 Pronouns: he/him
-- 📦️ Always exploring & sharing code projects
+- Hi, I’m @AndronikosGl, passionate about Java Swing & Desktop App Development. I daily drive Linux and Im also a FreeBSD beginner and I love to always explore and share code projects
 - 🌐 [andronikos.dev](https://andronikos.dev/home)
   <br><br>
 ## Oparating Systems
