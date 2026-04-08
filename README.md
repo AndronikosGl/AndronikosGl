@@ -1,5 +1,5 @@
 ## 🫠 A bit about me
-Hi, I’m @AndronikosGl — passionate about desktop application development using Java Swing and Android app development using Kotlin. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in Apache NetBeans and Android Studio
+Hi, I’m @AndronikosGl — passionate about desktop application development using Java Swing and Android app development using Kotlin. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in Apache NetBeans and Android Studio.
 
 ## 🧑‍💻 Operating Systems
 <img alt="Static Badge" src="https://img.shields.io/badge/KUBUNTU-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white&cacheSeconds=3600" />  <img alt="Static Badge" src="https://img.shields.io/badge/free%E2%80%8Bbsd-unix?style=for-the-badge&logo=FreeBSD&logoColor=white&logoSize=auto&labelColor=%23AB2B28&color=%23AB2B28" />
