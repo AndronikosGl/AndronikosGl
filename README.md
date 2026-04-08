@@ -2,7 +2,7 @@
 
 <p align="left">
   <br>
-  <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/linkedinbadge.png" />
+  <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/linkedinbadge.png" /> &nbsp;&nbsp;
   <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" />
 </p>
 
