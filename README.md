@@ -10,7 +10,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/apache_netbeans-ide?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white&logoSize=auto&labelColor=%231B6AC6&color=%231B6AC6" />
 
 
-##
+
 <p align="right">
   <img src="https://github.com/AndronikosGl/MyPwp/blob/c8dc4807d3ead86e1e60769538fd51e4381e2159/logocorp8.png"></img><br>
   <a href="https://gr.linkedin.com/in/andronikosgl" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/a242b94a6774face908b9da2ce3be5a27298f953/linkedinbadge3.png" alt="LinkedIn Profile" /></a><a href="https://andronikos.dev/home" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" alt="Personal Website" /></a>
