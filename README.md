@@ -1,10 +1,5 @@
 - Hi, I’m @AndronikosGl — passionate about Java Swing and desktop application development. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in my favorite IDE, Apache NetBeans
 
-  <p align="left">
-  <img src="https://github.com/AndronikosGl/MyPwp/blob/d9d629d89321372416cc0280240aa2e52d1ae7c7/logocorp7.png"></img><br>
-  <a href="https://gr.linkedin.com/in/andronikosgl" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/a242b94a6774face908b9da2ce3be5a27298f953/linkedinbadge3.png" alt="LinkedIn Profile" /></a><a href="https://andronikos.dev/home" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" alt="Personal Website" /></a>
-</p>
-
 ## Operating Systems
 <img alt="Static Badge" src="https://img.shields.io/badge/zorin%E2%80%84os-system?style=for-the-badge&logo=Zorin&logoColor=white&logoSize=auto&labelColor=%2315A6F0&color=%2315A6F0" />  
 <img alt="Static Badge" src="https://img.shields.io/badge/free%E2%80%8Bbsd-unix?style=for-the-badge&logo=FreeBSD&logoColor=white&logoSize=auto&labelColor=%23AB2B28&color=%23AB2B28" />
@@ -17,3 +12,9 @@
 
 ## IDE of Choice
 <img alt="Static Badge" src="https://img.shields.io/badge/apache_netbeans-ide?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white&logoSize=auto&labelColor=%231B6AC6&color=%231B6AC6" />
+
+<p align="left">
+  <img src="https://github.com/AndronikosGl/MyPwp/blob/d9d629d89321372416cc0280240aa2e52d1ae7c7/logocorp7.png"></img><br>
+  <a href="https://gr.linkedin.com/in/andronikosgl" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/a242b94a6774face908b9da2ce3be5a27298f953/linkedinbadge3.png" alt="LinkedIn Profile" /></a><a href="https://andronikos.dev/home" target="_blank" style="text-decoration:none;"><img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" alt="Personal Website" /></a>
+</p>
+ 
