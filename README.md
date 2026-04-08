@@ -1,7 +1,7 @@
 - Hi, I’m @AndronikosGl — passionate about Java Swing and desktop application development. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in my favorite IDE, Apache NetBeans
 
-<p align="right">
-  <img src="https://github.com/AndronikosGl/MyPwp/blob/85479baa6a73c98416957a326bafbd81234d3860/logocorp.png" alt="Logo" /><br>
+<p align="left">
+  <br>
   <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/linkedinbadge.png" />
   <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" />
 </p>
