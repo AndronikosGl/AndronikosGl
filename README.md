@@ -1,4 +1,5 @@
-- Hi, I’m @AndronikosGl — passionate about Java Swing and desktop application development. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in my favorite IDE, Apache NetBeans
+## A bit about me
+🫠 Hi, I’m @AndronikosGl — passionate about Java Swing and desktop application development. I daily drive Linux, I’m a FreeBSD beginner, and I enjoy exploring and sharing code projects, primarily working in my favorite IDE, Apache NetBeans
 
 ## Operating Systems
 <img alt="Static Badge" src="https://img.shields.io/badge/zorin%E2%80%84os-system?style=for-the-badge&logo=Zorin&logoColor=white&logoSize=auto&labelColor=%2315A6F0&color=%2315A6F0" />  <img alt="Static Badge" src="https://img.shields.io/badge/free%E2%80%8Bbsd-unix?style=for-the-badge&logo=FreeBSD&logoColor=white&logoSize=auto&labelColor=%23AB2B28&color=%23AB2B28" />
