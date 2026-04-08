@@ -2,10 +2,10 @@
 
 <p align="left">
   <br>
-  <a href="https://gr.linkedin.com/in/andronikosgl" target="_blank" style="text-decoration:none">
+  <a href="https://gr.linkedin.com/in/andronikosgl" target="_blank" style="color:transparent; text-decoration:none">
     <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/linkedinbadge.png" alt="LinkedIn Profile" />
-  </a>&nbsp;
-  <a href="https://andronikos.dev/home" target="_blank" style="text-decoration:none">
+  </a> &nbsp;
+  <a href="https://andronikos.dev/home" target="_blank" style="color:transparent; text-decoration:none">
     <img src="https://github.com/AndronikosGl/MyPwp/blob/4b63332d866d1862e62365eab34bf48d9cac280f/website.png" alt="Personal Website" />
   </a>
 </p>
